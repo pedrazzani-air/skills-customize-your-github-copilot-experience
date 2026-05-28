@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-testing-pytest",
+      "title": "Python Testing with Pytest",
+      "description": "Write beginner-friendly automated tests in Python using pytest and simple edge cases.",
+      "path": "assignments/python-testing-pytest",
+      "dueDate": "2026-06-04",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Pytest Starter File",
+          "file": "test_starter.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
